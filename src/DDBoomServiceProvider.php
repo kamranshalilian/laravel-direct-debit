@@ -2,7 +2,6 @@
 
 namespace DirectDebitBoom;
 
-use App\Lib\Adapter\Bank\BankAdapter;
 use Illuminate\Support\ServiceProvider;
 
 class DDBoomServiceProvider extends ServiceProvider
