@@ -1,22 +1,22 @@
 <?php
 
 
-namespace Kamran\DirectDebitBoom\Boomir;
+namespace  DirectDebitBoom\Boomir;
 
 use Illuminate\Support\Carbon;
-use Kamran\DirectDebitBoom\BankAbstract;
-use Kamran\DirectDebitBoom\Curl\Curl;
-use Kamran\DirectDebitBoom\Libs\DataAuthorizer;
-use Kamran\DirectDebitBoom\Libs\DataCallBack;
-use Kamran\DirectDebitBoom\Libs\DataToken;
-use Kamran\DirectDebitBoom\Libs\DataWithdrawal;
-use Kamran\DirectDebitBoom\Libs\PaymanSearch;
-use Kamran\DirectDebitBoom\Libs\Permissions;
-use Kamran\DirectDebitBoom\Libs\TraceReport;
-use Kamran\DirectDebitBoom\Libs\PaymanReport;
-use Kamran\DirectDebitBoom\Libs\PaymanStatus;
-use Kamran\DirectDebitBoom\Libs\PaymanBill;
-use Kamran\DirectDebitBoom\Libs\PaymanTransactions;
+use  DirectDebitBoom\BankAbstract;
+use  DirectDebitBoom\Curl\Curl;
+use  DirectDebitBoom\Libs\DataAuthorizer;
+use  DirectDebitBoom\Libs\DataCallBack;
+use  DirectDebitBoom\Libs\DataToken;
+use  DirectDebitBoom\Libs\DataWithdrawal;
+use  DirectDebitBoom\Libs\PaymanSearch;
+use  DirectDebitBoom\Libs\Permissions;
+use  DirectDebitBoom\Libs\TraceReport;
+use  DirectDebitBoom\Libs\PaymanReport;
+use  DirectDebitBoom\Libs\PaymanStatus;
+use  DirectDebitBoom\Libs\PaymanBill;
+use  DirectDebitBoom\Libs\PaymanTransactions;
 
 
 class Boomir extends BankAbstract

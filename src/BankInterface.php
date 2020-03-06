@@ -1,20 +1,20 @@
 <?php
 
 
-namespace Kamran\DirectDebitBoom;
+namespace DirectDebitBoom;
 
 
-use Kamran\DirectDebitBoom\Libs\DataAuthorizer;
-use Kamran\DirectDebitBoom\Libs\DataCallBack;
-use Kamran\DirectDebitBoom\Libs\DataToken;
-use Kamran\DirectDebitBoom\Libs\DataWithdrawal;
-use Kamran\DirectDebitBoom\Libs\PaymanBill;
-use Kamran\DirectDebitBoom\Libs\PaymanReport;
-use Kamran\DirectDebitBoom\Libs\PaymanSearch;
-use Kamran\DirectDebitBoom\Libs\PaymanStatus;
-use Kamran\DirectDebitBoom\Libs\PaymanTransactions;
-use Kamran\DirectDebitBoom\Libs\Permissions;
-use Kamran\DirectDebitBoom\Libs\TraceReport;
+use  DirectDebitBoom\Libs\DataAuthorizer;
+use  DirectDebitBoom\Libs\DataCallBack;
+use  DirectDebitBoom\Libs\DataToken;
+use  DirectDebitBoom\Libs\DataWithdrawal;
+use  DirectDebitBoom\Libs\PaymanBill;
+use  DirectDebitBoom\Libs\PaymanReport;
+use  DirectDebitBoom\Libs\PaymanSearch;
+use  DirectDebitBoom\Libs\PaymanStatus;
+use  DirectDebitBoom\Libs\PaymanTransactions;
+use  DirectDebitBoom\Libs\Permissions;
+use  DirectDebitBoom\Libs\TraceReport;
 
 interface BankInterface
 {

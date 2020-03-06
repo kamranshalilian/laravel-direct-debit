@@ -1,9 +1,9 @@
 <?php
 
 
-namespace Kamran\DirectDebitBoom;
+namespace DirectDebitBoom;
 
-use Kamran\DirectDebitBoom\Boomir\Boomir;
+use DirectDebitBoom\Boomir\Boomir;
 
 class BankAdapter
 {

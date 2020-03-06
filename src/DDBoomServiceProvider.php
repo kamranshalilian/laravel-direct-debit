@@ -1,6 +1,6 @@
 <?php
 
-namespace Kamran\DirectDebitBoom;
+namespace DirectDebitBoom;
 
 use App\Lib\Adapter\Bank\BankAdapter;
 use Illuminate\Support\ServiceProvider;

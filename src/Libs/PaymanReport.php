@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Kamran\DirectDebitBoom\Libs;
+namespace  DirectDebitBoom\Libs;
 
 
 class PaymanReport

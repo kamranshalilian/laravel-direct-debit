@@ -1,10 +1,10 @@
 <?php
 
 
-namespace Kamran\DirectDebitBoom;
+namespace  DirectDebitBoom;
 
 
-use Kamran\DirectDebitBoom\Libs\DataToken;
+use  DirectDebitBoom\Libs\DataToken;
 
 /**
  * Class BankAbstract

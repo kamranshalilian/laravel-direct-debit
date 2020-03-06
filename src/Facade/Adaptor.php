@@ -1,5 +1,5 @@
 <?php
- namespace Kamran\DirectDebitBoom\Facade;
+ namespace  DirectDebitBoom\Facade;
 
 use Illuminate\Support\Facades\Facade;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace Kamran\DirectDebitBoom\Curl;
+namespace  DirectDebitBoom\Curl;
 
 use Illuminate\Support\Facades\Log;
 
