@@ -1,5 +1,5 @@
 {
-    "name": "direct-debit",
+    "name": "laravel/direct/debit",
     "description": "api direct debit boom",
     "authors": [
         {
