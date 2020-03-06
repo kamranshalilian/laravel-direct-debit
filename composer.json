@@ -1,5 +1,5 @@
 {
-    "name": "laravel/direct/debit",
+    "name": "kamranshalilian/laraveldirectdebit",
     "description": "api direct debit boom",
     "authors": [
         {
@@ -7,6 +7,11 @@
             "email": "shaliliankamran@gmail.com"
         }
     ],
+    "require": {
+
+        "laravel/framework": "^5.*"
+
+    },
     "minimum-stability": "dev",
     "extra": {
         "laravel": {
