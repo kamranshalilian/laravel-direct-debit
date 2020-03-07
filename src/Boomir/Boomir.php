@@ -165,7 +165,7 @@ class Boomir extends BankAbstract
             "app-key: " . $data->appKey,
         ];
         /** @var object $data */
-        dump($body, $header);
+
         return Curl::curl(config('Boom_Withdrawal_Url', 'Https://payman.sandbox.faraboom.co/v1/payman/pay'),
             "POST", $body, $header);
 
